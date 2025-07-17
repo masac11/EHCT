@@ -1,4 +1,4 @@
-##  Fusing Convolution and Transformer-based Spiking Neural Network for Object Tracking in Event Domain
+##  An Efficient Hybrid Cascade Tracker with Spiking Neural Networks for Event Domain Tracking
  
 The code is based on [SiamFC++](https://github.com/MegviiDetection/video_analyst) 
 
